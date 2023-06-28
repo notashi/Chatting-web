@@ -159,44 +159,6 @@ router.get('/conversationByUser/query', async (req, res) => {
 
 /*
  
-        1  recipients : [kush rahul],
-        lastMessage:"hi"
- 
-        2  recipients : [kush ahmed],
-        lastMessage:"hi"
- 
-        3  recipients : [kush ritesh],
-        lastMessage:"hi"
- 
-        4  recipients : [kush deepak],
-        lastMessage:"hi"
- 
-        5  recipients : [kush pradeep],
-        lastMessage:"how are you"
- 
-        6  recipients : [kush vikas],
-        lastMessage:"hi"
-     
-        7  recipients : [rahul vikas],
-        lastMessage:"hi"
- 
- 
- 
- 
-    case1 : 1(rahul)
-        from(kush)  to(rahul)
-        last message
-    case2 : Deepak
-        from (kush)  to(deepak)
-        from to lasst messahe
- 
- 
-    Message
-        conversation
-        from
-        to
-        message
-    
  
 */
 
