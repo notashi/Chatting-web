@@ -17,5 +17,10 @@ Feel free to customize and expand this README to fit your project's specific det
 
 ## To Install in vs code
 git clone
+
 npm install dependencies 
-npm run concurrently
+
+
+
+
+P.S : If your system fails to detect package.json file, kindly enter this "npm install -g npm" command in your terminal.
